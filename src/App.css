@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(240,240,240);
+}
+
+.list-paper {
+  display: flex;
+  flex-flow: column;
+  padding: 20px;
+  margin: 20px;
+  height: 87%;
+}
+
+.paper-container {
+  display: flex;
+  flex-flow: column;
+  padding: 20px;
+  margin: 20px;
+}
+
+.loader-wrapper {
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-container {
+  overflow-y: scroll;
+  height: 95%;
+  border: solid 1px rgb(210,210,210);
+  border-radius: 3px;
+}
+
+.picture-edit-button {
+  padding: 5px;
+  border-radius: 3px;
+  border: solid 1px rgb(210,210,210);
+  background-color: white;
+  box-shadow: none;
+}
+
+.picture-edit-button:hover {
+  border-color: rgb(153, 205, 242);
+  cursor: pointer;
+
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  flex: 1 0 auto;
+}
+
+section {
+  display: flex;
+  flex: 1 1 auto;
+  max-height: 92vh;
+}

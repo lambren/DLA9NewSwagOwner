@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DLA9NewSwagOwner/static/css/main.6117253b.chunk.css",
+    "main.js": "/DLA9NewSwagOwner/static/js/main.68671e8c.chunk.js",
+    "main.js.map": "/DLA9NewSwagOwner/static/js/main.68671e8c.chunk.js.map",
+    "runtime-main.js": "/DLA9NewSwagOwner/static/js/runtime-main.87b457ff.js",
+    "runtime-main.js.map": "/DLA9NewSwagOwner/static/js/runtime-main.87b457ff.js.map",
+    "static/js/2.66867153.chunk.js": "/DLA9NewSwagOwner/static/js/2.66867153.chunk.js",
+    "static/js/2.66867153.chunk.js.map": "/DLA9NewSwagOwner/static/js/2.66867153.chunk.js.map",
+    "static/js/3.8b42c6b8.chunk.js": "/DLA9NewSwagOwner/static/js/3.8b42c6b8.chunk.js",
+    "static/js/3.8b42c6b8.chunk.js.map": "/DLA9NewSwagOwner/static/js/3.8b42c6b8.chunk.js.map",
+    "index.html": "/DLA9NewSwagOwner/index.html",
+    "static/css/main.6117253b.chunk.css.map": "/DLA9NewSwagOwner/static/css/main.6117253b.chunk.css.map",
+    "static/js/2.66867153.chunk.js.LICENSE.txt": "/DLA9NewSwagOwner/static/js/2.66867153.chunk.js.LICENSE.txt",
+    "static/media/make_it_rain.39f28990.svg": "/DLA9NewSwagOwner/static/media/make_it_rain.39f28990.svg",
+    "static/media/transfer_money.89055b6d.svg": "/DLA9NewSwagOwner/static/media/transfer_money.89055b6d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b457ff.js",
+    "static/js/2.66867153.chunk.js",
+    "static/css/main.6117253b.chunk.css",
+    "static/js/main.68671e8c.chunk.js"
+  ]
+}

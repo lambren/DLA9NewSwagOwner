@@ -10,7 +10,7 @@ function App() {
   const [login, setLogin] = useState(false);
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path='/'>
             <SignIn setLogin={setLogin}/>
